@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My CV page
 
 [Link for my CV:](https://shappiron.github.io/dok_cv/)
 
